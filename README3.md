@@ -14,7 +14,7 @@ To control the brightness of an LED by varying the resistance using a potentiome
 * Connecting wires
 
  **Simulation**
-![simulation](simulation3-1.pdf)
+![simulation](simulation3.pdf)
 
 Circuit simulation of LED brightness control using potentiometer.
 
